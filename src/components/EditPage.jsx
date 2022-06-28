@@ -43,7 +43,7 @@ const EditPage = () => {
          
          dispatch(addTodo(payload))
        
-         alert("UPDATE SUCCESSFULL 😍")
+         alert("UPDATE SUCCESSFULL 🥰")
          navigate("/")
 
     }
